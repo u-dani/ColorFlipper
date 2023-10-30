@@ -1,5 +1,5 @@
 # ColorFlipper
- Gera uma cor (em hex) aleatoria.
+Gera uma cor aleatória em hexadecimal.
 
-### Github Pages
- https://u-dani.github.io/ColorFlipper/
+### DEMO
+Github Pages -> https://u-dani.github.io/ColorFlipper/
